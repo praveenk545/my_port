@@ -358,6 +358,7 @@ gap: 20px;
     #portfolio .content,
     #contact .content{
      grid-template-columns: repeat(1,1fr);
+     font-size: 11px;
     } 
     #contact .content a{
         height: 100px;
