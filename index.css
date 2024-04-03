@@ -262,6 +262,7 @@ header ul li:hover a{
     #home .men{
         position: absolute;
         height: 50vh;
+        width: 40vw;
         right: 0;
 
     }
